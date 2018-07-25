@@ -1,4 +1,4 @@
-package com.zoudong.permission.param.user.login;
+package com.zoudong.permission.param.login;
 
 import lombok.Data;
 

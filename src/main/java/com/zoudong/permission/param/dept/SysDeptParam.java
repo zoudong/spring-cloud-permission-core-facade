@@ -1,4 +1,4 @@
-package com.zoudong.permission.param.user.dept;
+package com.zoudong.permission.param.dept;
 
 import com.zoudong.permission.param.base.PageParam;
 

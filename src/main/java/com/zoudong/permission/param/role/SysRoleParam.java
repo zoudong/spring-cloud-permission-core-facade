@@ -1,10 +1,10 @@
-package com.zoudong.permission.param.user.role;
+package com.zoudong.permission.param.role;
 
 import com.zoudong.permission.param.base.PageParam;
 import lombok.Data;
 
 import java.util.Date;
-import java.util.List;
+
 @Data
 public class SysRoleParam extends PageParam{
     /**

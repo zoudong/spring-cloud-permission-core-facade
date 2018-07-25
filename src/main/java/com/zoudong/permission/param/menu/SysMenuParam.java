@@ -1,4 +1,4 @@
-package com.zoudong.permission.param.user.menu;
+package com.zoudong.permission.param.menu;
 
 import com.zoudong.permission.param.base.PageParam;
 

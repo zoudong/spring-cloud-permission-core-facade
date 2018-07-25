@@ -1,4 +1,4 @@
-package com.zoudong.permission.param.user.query;
+package com.zoudong.permission.param.user;
 
 import com.zoudong.permission.param.base.PageParam;
 import lombok.Data;

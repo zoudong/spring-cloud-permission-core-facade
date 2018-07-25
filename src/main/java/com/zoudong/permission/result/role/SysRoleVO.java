@@ -1,6 +1,7 @@
-package com.zoudong.permission.result.user;
+package com.zoudong.permission.result.role;
 
 
+import com.zoudong.permission.result.permission.SysPermissionVO;
 import lombok.Data;
 
 import java.util.Date;

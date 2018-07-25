@@ -2,8 +2,8 @@ package com.zoudong.permission.api;
 
 
 import com.github.pagehelper.PageInfo;
-import com.zoudong.permission.param.user.login.SysUserLoginParam;
-import com.zoudong.permission.param.user.query.QuerySysUserParam;
+import com.zoudong.permission.param.login.SysUserLoginParam;
+import com.zoudong.permission.param.user.QuerySysUserParam;
 import com.zoudong.permission.result.base.BaseResult;
 import com.zoudong.permission.result.user.SysUserVO;
 import org.springframework.cloud.netflix.feign.FeignClient;

@@ -1,10 +1,10 @@
-package com.zoudong.permission.param.user.permission;
+package com.zoudong.permission.result.permission;
 
-import com.zoudong.permission.param.base.PageParam;
 
 import java.util.Date;
 
-public class QuerySysPermissionParam extends PageParam{
+
+public class SysPermissionVO {
     /**
      * 主键id
      */
